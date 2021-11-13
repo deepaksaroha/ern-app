@@ -25,6 +25,7 @@ class HomePage extends React.Component {
                 <button type="button" onClick={this.onClick}>
                     Submit
                 </button>
+                <p>This is coming from build folder created from the react code</p>
             </div>
         );
     }
